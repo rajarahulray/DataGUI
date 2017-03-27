@@ -1,0 +1,16 @@
+#include<iostream.h>
+#include<conio.h>
+#include<stdio.h>
+#include<iomanip.h>
+#include<stdlib.h>
+#include<graphics.h>
+#include<time.h>
+#include<dos.h>
+#include<ctype.h>
+#include<alloc.h>
+#include<bios.h>
+#include<complex.h>
+#include<fstream.h>
+#include<process.h>
+#include<string.h>
+#include<malloc.h>
